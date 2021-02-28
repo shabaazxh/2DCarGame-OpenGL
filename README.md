@@ -1,5 +1,5 @@
 # 2DCarGame-OpenGL
-A super fun 2D car game created using OpenGL. The goal in the game is to traverse past the obstacles and make it out of the level to increase your score.
+A super fun 2D car game created using OpenGL. The goal is to traverse past the obstacles and make it out of the level to increase your score.
 
 Implemented features:
 * 2D Box Collision
